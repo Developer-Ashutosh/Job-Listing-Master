@@ -1,6 +1,6 @@
 # Frontend Mentor - Job listings with filtering solution
 
-This is a solution to the [Job listings with filtering challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Job listings with filtering challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/job-listing-master-xohar8YyMA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Job Listing Master Solution](https://github.com/Developer-Ashutosh/Job-Listing-Master)
-- Live Site URL: [Job Listing Master](https://your-live-site-url.com)
+- Live Site URL: [Job Listing Master](https://developer-ashutosh.github.io/Job-Listing-Master/)
 
 ## My process
 
