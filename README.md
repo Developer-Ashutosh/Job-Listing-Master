@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Job Listing Master Solution](https://github.com/Developer-Ashutosh/Job-Listing-Master)
-- Live Site URL: [Job Listing Master](https://developer-ashutosh.github.io/Job-Listing-Master/~)
+- Live Site URL: [Job Listing Master](https://developer-ashutosh.github.io/Job-Listing-Master/)
 
 ## My process
 
