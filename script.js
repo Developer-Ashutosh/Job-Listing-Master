@@ -20,7 +20,7 @@ const fetchData = async () => {
                     <!-- Personal Details -->
                     <div class="personal-details">
                         <div class="logo">
-                            <img src=".${logo}" alt="Logo" class="logo-img">
+                            <img src="${logo}" alt="Logo" class="logo-img">
                         </div>
                         <div class="detail">
                             <!-- Company Details -->
